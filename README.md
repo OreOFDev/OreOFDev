@@ -18,5 +18,3 @@
 </div>
 
 ---
-
-Feito com 💙 por **OreOFDev** 😄
