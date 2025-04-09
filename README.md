@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://discord.com/users/1234187756834394223" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-oreofday12%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/oreofday12%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
+
 
 ---
 
