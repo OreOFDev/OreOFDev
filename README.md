@@ -26,7 +26,4 @@
 
 ---
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OreOFDev&show_icons=true&theme=radical" />
-</div>
 
