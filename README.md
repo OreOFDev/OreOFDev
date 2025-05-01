@@ -1,7 +1,7 @@
-<h1 align="center">Olá! 👋 Eu sou o OreOFDev</h1>
+<h1 align="center">Oi Eu sou o OreOFDev</h1>
 
-🎓 Estou aprendendo **Python** e dando meus primeiros passos na programação.  
-🚀 Em breve, pretendo compartilhar meus projetos aqui no GitHub!
+Estou aprendendo algumas linguagens de programacao tipo C# e Python 
+e posto meus projetos aqui
 
 <p align="center">
   <a href="https://discord.com/users/1234187756834394223" target="_blank">
