@@ -19,8 +19,6 @@ e posto meus projetos aqui
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="C#" title="C#"/>
 
 
-</p>
-
 ---
 
 <div align="center">
