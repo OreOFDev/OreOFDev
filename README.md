@@ -19,8 +19,6 @@ e posto meus projetos aqui
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="C#" title="C#"/>
 
 
----
-
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OreOFDev&layout=compact&theme=radical" />
 </div>
