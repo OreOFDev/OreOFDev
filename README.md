@@ -1,6 +1,6 @@
 <h1 align="center">Oi Eu sou o OreOFDev</h1>
 
-Estou aprendendo algumas linguagens de programacao tipo C# e Python 
+Estou aprendendo algumas linguagens de programacao tipo C#, Python e Lua
 e posto meus projetos aqui
 
 <p align="center">
@@ -13,7 +13,7 @@ e posto meus projetos aqui
 ---
 
 ## 💻 Linguagens de Programação
-
+  IGNORE HTML! EU USO CHATGPT NO HTML! mas nas linguagens abaixo eu sei programar!
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="C#" title="C#"/>
