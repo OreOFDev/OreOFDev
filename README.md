@@ -12,6 +12,7 @@ e posto meus projetos aqui
 ---
 
 ## 💻 Linguagens de Programação
+nao domino todas mas sei programar todas
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50" alt="C#" title="C#"/>
