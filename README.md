@@ -2,6 +2,7 @@
 
 Estou aprendendo algumas linguagens de programacao tipo C#, Python e Lua
 e posto meus projetos aqui
+uso arch linux e ubuntu
 
 https://oreofdev.github.io/Show/ 
 ---
